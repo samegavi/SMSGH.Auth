@@ -1,0 +1,13 @@
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\bin\Release\SMSGH.Auth.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\bin\Release\SMSGH.Auth.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\bin\Release\SMSGH.Auth.apk
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\bin\Release\SMSGH.Auth-Signed.apk
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\bin\Release\Xamarin.Auth.Android.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\bin\Release\Xamarin.Auth.Android.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\SMSGH.Auth.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\SMSGH.Auth.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\android\bin\SMSGH.Auth.apk
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\res\values\strings.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\R.cs.flag
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\uploadflags.txt
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\obj\Release\SMSGH.Auth.csprojResolveAssemblyReference.cache

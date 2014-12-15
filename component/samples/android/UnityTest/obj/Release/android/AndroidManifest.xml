@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="UnityTest.UnityTest" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="19" />
+  <application android:label="UnityTest" android:icon="@drawable/icon" android:name="mono.android.app.Application">
+    <meta-data android:name="UnityClientID" android:value="vgunwttc" />
+    <meta-data android:name="UnityAppScope" android:value="account.details account.balance account.settings" />
+    <meta-data android:name="UnityAuthorizeUrl" android:value="https://unity.smsgh.com/oauth" />
+    <meta-data android:name="UnityRedirectUrl" android:value="http://unitytest.app/" />
+    <activity android:icon="@drawable/icon" android:label="UnityTest" android:name="unitytest.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="UnityLoginActivity" android:name="unitytest.UnityLoginActivity" />
+    <activity android:label="UserProfileActivity" android:name="unitytest.UserProfileActivity" />
+    <activity android:label="Web Authenticator" android:name="xamarin.auth.WebAuthenticatorActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="UnityTest.UnityTest.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

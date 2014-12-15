@@ -1,0 +1,7 @@
+UnityTest.MainActivity;unitytest.MainActivity
+UnityTest.UnityLoginActivity;unitytest.UnityLoginActivity
+UnityTest.UserProfileActivity;unitytest.UserProfileActivity
+Xamarin.Auth.AndroidAccountStore.SecretAccount;xamarin.auth.AndroidAccountStore_SecretAccount
+Xamarin.Auth.WebAuthenticatorActivity;xamarin.auth.WebAuthenticatorActivity
+Xamarin.Auth.WebAuthenticatorActivity.State;xamarin.auth.WebAuthenticatorActivity_State
+Xamarin.Auth.WebAuthenticatorActivity.Client;xamarin.auth.WebAuthenticatorActivity_Client

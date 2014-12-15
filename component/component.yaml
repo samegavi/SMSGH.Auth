@@ -1,0 +1,26 @@
+%YAML 1.2
+---
+summary: Add 'Login with SMSGH' functionality in your apps
+getting-started: GettingStarted.md
+details: Details.md
+no_build: true
+screenshots: 
+  
+license: License.md
+icons: 
+  - SMSGH.Auth_128x128.png
+  - SMSGH.Auth_512x512.png
+publisher: SMSGH
+name: SMSGH.Auth
+id: SMSGH.Auth
+samples: 
+  android Sample: samples/android/UnityTest/UnityTest.sln
+publisher-url: http://www.smsgh.com
+libraries: 
+  android: 
+    - lib/android/SMSGH.Auth.dll
+    - lib/android/Xamarin.Auth.Android.dll
+  
+version: "1.1"
+
+...

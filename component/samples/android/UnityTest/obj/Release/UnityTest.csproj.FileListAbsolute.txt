@@ -1,0 +1,17 @@
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\bin\Release\UnityTest.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\bin\Release\UnityTest.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\bin\Release\UnityTest.UnityTest.apk
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\bin\Release\UnityTest.UnityTest-Signed.apk
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\bin\Release\SMSGH.Auth.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\bin\Release\Xamarin.Auth.Android.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\UnityTest.dll
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\UnityTest.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\android\bin\UnityTest.UnityTest.apk
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\res\layout\unity.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\res\layout\profile.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\res\layout\main.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\res\values\strings.xml
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\res\drawable\icon.png
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\R.cs.flag
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\uploadflags.txt
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\UnityTest\SMSGH.Auth\component\samples\android\UnityTest\obj\Release\UnityTest.csprojResolveAssemblyReference.cache
